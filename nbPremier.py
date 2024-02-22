@@ -5,4 +5,4 @@ for k in range (1,100+1):
         if (k%i)==0:
             premier = False
     if premier== True :
-        print(k , end='')
+        print(k , end=' ')
